@@ -1,1 +1,1 @@
-#karate-syllabus.
+KARATE REGISTRATION FROM 
